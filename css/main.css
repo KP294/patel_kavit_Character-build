@@ -135,16 +135,28 @@ footer {
     top: 0px;
     left: 0px;
     background-color: rgba(0, 0, 0, 0.85);
-    background-image: url(../images/Cap_LB_Bg.png);
+    background-image: url(../images/V\ P\ Singh.jpg);
     background-repeat: no-repeat;
     background-size: 55vh;
-    background-position: 40px bottom;
+    background-position: 40px center;
     z-index: 5000; /*this is crazy, better safe than sorry */ 
     display: none;
 }
 
 #lightbox2 {
-    background-image: url(../images/Thor_LB_Bg.png);
+    background-image: url(../images/Atal\ Bihari\ ji.jpg);
+}
+
+#lightbox3 {
+    background-image: url(../images/Narendra\ modi.jpg);
+}
+
+#lightbox4 {
+    background-image: url(../images/Manmohan\ Singh.webp);
+}
+
+#lightbox5 {
+    background-image: url(../images/Indira\ Gandhi.jpg);
 }
 
 .lightbox_close {
