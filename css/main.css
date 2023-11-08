@@ -44,7 +44,7 @@ header {
 .characters li {
     height: 220px;
     margin: 10px 8px;
-    background-color: rgb(236, 236, 212);
+    background-color: rgb(212, 227, 236);
     text-align: left;
     cursor: pointer;
     transition: box-shadow 0.2s ease;
